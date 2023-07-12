@@ -1,0 +1,16 @@
+{
+  "tup_transfer_hd": [
+    {
+      "us_CdrCod": 1001,
+      "us_CdrNmb": 1,
+      "us_ChnNmb": 999,
+      "us_LenInf": 8
+    }
+  ],
+  "tup_BufWST_AskLogin": [
+    {
+      "uid_User": 0,
+      "PID": 65534
+    }
+  ]
+}

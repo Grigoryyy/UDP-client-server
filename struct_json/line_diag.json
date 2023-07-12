@@ -1,0 +1,8 @@
+{
+  "us_ErrSmbR": 4,
+  "us_ErrCdrHd": 4,
+  "us_ErrCdrInf": 4,
+  "us_ErrCdrLen": 4,
+  "us_ErrCdrCop": 4,
+  "us_ErrTimLstSmbR": 4
+}

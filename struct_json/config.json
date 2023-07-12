@@ -1,0 +1,23 @@
+{
+  "test_users": 1,
+  "test_lic":1,
+  "test_struct":1,
+  "test_platform":1,
+  "test_ksdo": 1,
+  "test_hostname":1,
+  "test_echo": 1,
+  "test_path_distrb":1,
+  "test_path": 1,
+  "test_conf":1,
+  "test_localhost":1,
+  "test_lib": 1,
+  "test_DB_sql":1,
+  "test_access": 1,
+  "test_python_version": 1,
+  "test_groups": 1,
+  "test_working": 1,
+  "test_update": 1,
+  "test_systemctl_PostgreSQL": 1,
+  "test_libvulkan1": 1
+
+}

@@ -1,0 +1,10 @@
+{
+  "LinConstInf": 4,
+  "Addr": 4,
+  "bl_FlgCtl": 1,
+  "bl_FlgObjCtrl": 1,
+  "bl_FlgCmpCtrl": 4,
+  "i_NmbLinePerPage": 4,
+  "i_NmbCharPerLine": 4,
+  "i_CdrSmbWaiIntervalMSec": 4
+}

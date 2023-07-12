@@ -1,0 +1,10 @@
+{
+  	"WST_AskCreSpy": 1080,
+	"WST_AnsCreSpy": 1081,
+	"WST_AskDelSpy": 1082,
+	"WST_AnsDelSpy": 1083,
+	"WST_AskInfSpyS": 1084,
+	"WST_AnsInfSpyS": 1085,
+	"WST_AskInfSpyR": 1086,
+	"WST_AnsInfSpyR": 1087
+}

@@ -1,0 +1,18 @@
+{
+    "us_NmbDirOpRedir": 0,
+	"uc_FlgMsgAnul":0,
+	"uc_CodMsgSrok":0,
+	"uc_CodMsgRM":0,
+    "us_NmbMsgNeiz":0,
+	"uc_PriMsgNeiz":0,
+	"us_NmbMsgNeot":0,
+	"uc_PriMsgNeot":0,
+	"us_NmbMsgRsn2":0,
+	"uc_PriMsgRsn2":0,
+	"us_NmbMsgRsn3":0,
+	"uc_PriMsgRsn3":0,
+	"us_NmbMsgRsn4":0,
+	"uc_PriMsgRsn4":0,
+	"uc_FlgDiagnostika":0,
+	"s_HostStatus":0
+}

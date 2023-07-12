@@ -1,0 +1,16 @@
+{
+    "ul_LenMsg":	4,
+	"ul_LenDon":	4,
+	"ui_RegNmb":	4,
+	"ui_RegTim":	4,
+	"us_NAddrR":	4,
+	"us_TlgWrd":	4,
+	"AddrS":		4,
+	"uc_Grf":		4,
+	"uc_Pri":		4,
+	"uc_Prc":		4,
+	"uc_FlgRS":		4,
+	"uc_Typ":		4,
+	"uc_Cnd":		4,
+	"t_TimCnd":     4
+}

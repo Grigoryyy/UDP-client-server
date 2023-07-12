@@ -1,0 +1,13 @@
+{
+  "AddrTrn": 4,
+  "ui_TimOtd": 1,
+  "ui_RegNmb": 1,
+  "ui_RegTim": 1,
+  "uc_DayTrn": 1,
+  "uc_HourTrn": 1,
+  "uc_MinTrn": 1,
+  "uc_Prc": 1,
+  "uc_Pri": 1,
+  "uc_Grf": 1,
+  "us_NmbAddr": 1
+}

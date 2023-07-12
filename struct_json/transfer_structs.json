@@ -1,0 +1,42 @@
+{
+    "BufWST_AskLogin" : {
+        "pid": 4,
+        "uid_User": 4
+    },
+    "BufWST_AnsLogin" : {
+        "i_Result": 4,
+        "ui_IpAddr": 4,
+        "uid_User": 4,
+        "i_NmbSrv": 4
+    },
+    "BufWST_AnsCil" : {
+        "i_Result": 4,
+        "CilWst": {
+            "s_NamLic" : 9,
+            "s_NamObjISO" : 15,
+            "i_NmbCfg" : 1,
+            "i_NmbAdm" : 1,
+            "i_NmbOuk" :4,
+            "i_NmbEml" : 4,
+            "i_NmbSgn" : 4,
+            "i_NmbOdoCec" : 4,
+            "i_NmbExpCec" : 4,
+            "i_NmbOdoEkv" : 4,
+            "i_NmbOdoIst" : 4,
+            "i_NmbOdoZon" : 4,
+            "i_NmbOdoStin" : 4,
+            "i_Reserv1" : 4,
+            "i_Reserv2" : 4,
+            "i_Reserv3" : 4,
+            "i_Reserv4" : 4,
+            "i_NmbLinTty" : 4,
+            "i_NmbLinEth" : 4,
+            "uc_Grf" : 1,
+            "s_CipherKeyN" : 32,
+            "s_CipherKeyP" : 32,
+            "s_CipherKeyS" : 32,
+            "s_CipherKeyT" : 32
+      },
+      "s_PgPassWord": 17
+    }
+  }

@@ -1,0 +1,27 @@
+{
+    "transfer_protocol" : [
+      {
+        "tup_transfer_hd" : {
+          "us_CdrCod": 1000,
+          "us_CdrNmb": 1,
+          "us_ChnNmb": 999,
+          "us_LenInf": 8
+        },
+        "BufInf" : {
+          "type": "BufWST_AskLogin",
+          "fields": [ 4, 4 ]
+        }
+      }, {
+        "tup_transfer_hd" : {
+          "us_CdrCod": 1001,
+          "us_CdrNmb": 1,
+          "us_ChnNmb": 999,
+          "us_LenInf": 16
+        },
+        "BufInf" : {
+            "type": "BufWST_AnsLogin",
+            "fields": [ 4, 4, 4, 4 ]
+        }
+      }
+    ]
+  }
